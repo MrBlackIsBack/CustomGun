@@ -1,0 +1,13 @@
+main: com.gmail.jamesbehan198.customguns.CustomGuns
+name: CustomGuns
+version: 1.0.0
+description: Allows you to make a custom gun!
+
+commands:
+   gun:
+      description: Spawns the gun.
+      usage: /<command> <spawn>
+      
+permissions:
+   customguns.spawn:
+      default: op

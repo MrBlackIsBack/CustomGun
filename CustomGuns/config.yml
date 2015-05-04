@@ -1,0 +1,17 @@
+guns:
+# The material of the gun. Must be a valid minecraft material in full capital letters!
+   material: "STICK"
+# The name;
+   name: "&4&lGUN"
+# The amount;
+   amount: 1
+# The lore; Must follow the format showed below!
+   lore:
+      - This is
+      - The lore
+# What it shoots. Change to true if you would like it to shoot that item!
+   tnt: false
+   chickens: true
+   cows: false
+   pigs: false
+   cats: false
